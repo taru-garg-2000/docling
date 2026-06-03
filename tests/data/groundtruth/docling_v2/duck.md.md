@@ -24,7 +24,7 @@ Hmm, what else…
 
 ## Let’s eat
 
-After we had a good day of swimming in the lake, it’s important to eat something nice
+After we had a good day of swimming in the lake,it’s important to eatsomething nice
 
 I like to eat leaves
 

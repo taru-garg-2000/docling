@@ -2,7 +2,7 @@
 
 ## &amp; &lt; &gt; " '
 
-Text: 00:16.000 ----&gt; 00:18.000 &amp; &lt; &gt; " '
+Text:00:16.000 ----&gt; 00:18.000&amp; &lt; &gt; " '
 
 # Lists
 
@@ -33,7 +33,7 @@ Text: 00:16.000 ----&gt; 00:18.000 &amp; &lt; &gt; " '
 | Apostrophes | ' |
 | Pipe | &#124; &#124; &#124; |
 
-The pipe symbol (| or `|` ) only needs to be escaped in tables.
+The pipe symbol (| or `|`) only needs to be escaped in tables.
 
 # Raw HTML
 

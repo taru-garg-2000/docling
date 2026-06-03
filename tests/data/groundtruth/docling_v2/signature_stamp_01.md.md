@@ -1,13 +1,13 @@
 Some text here
 
-<!-- image -->
-
 Signature
+
+<!-- image -->
 
 More text here
 
-<!-- image -->
-
 Stamp
+
+<!-- image -->
 
 Final text here
